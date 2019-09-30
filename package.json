@@ -1,0 +1,19 @@
+{
+  "name": "message-channel",
+  "version": "0.1.0",
+  "description": "MessageChannel wrapper for node and browser",
+  "main": "index.js",
+  "dependencies": {
+    "detect-node": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MessageChannel",
+    "MessagePort"
+  ],
+  "author": "Cayman Nava <caymannava@gmail.com>",
+  "license": "MIT"
+}
